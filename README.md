@@ -4,7 +4,7 @@
   <p><strong>Python & C++ Desktop Developer</strong></p>
   <p>Building practical software, clear interfaces, and reliable connected systems.</p>
 
-  <a href="https://youssef-kobaisy.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/Youssef-kobaisy/kobaisy">Portfolio project</a> ·
   <a href="https://www.linkedin.com/in/youssef-abdalhady-57111b38b?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> ·
   <a href="https://youtube.com/@tech.at.moment?si=cwTYUnw5WRDh9qDl">YouTube</a> ·
   <a href="https://www.instagram.com/youssef.kobaisy?srtk=MTZreTg4c2hvcWlheQ==">Instagram</a> ·
@@ -32,7 +32,7 @@ I enjoy turning complex workflows into dependable tools with thoughtful interfac
 
 A bilingual desktop application that compares Egyptian Tax Authority records with a company ledger, identifies matches and differences, and produces a clear report for review.
 
-[Explore the project and portfolio](https://youssef-kobaisy.vercel.app)
+[Explore the portfolio project](https://github.com/Youssef-kobaisy/kobaisy)
 
 ## Technical content
 
@@ -52,7 +52,7 @@ I share practical software ideas, development notes, and technical experiments o
 
 ## Connect
 
-- **Portfolio:** [youssef-kobaisy.vercel.app](https://youssef-kobaisy.vercel.app)
+- **Portfolio project:** [Youssef-kobaisy/kobaisy](https://github.com/Youssef-kobaisy/kobaisy)
 - **LinkedIn:** [Youssef Abdelhady](https://www.linkedin.com/in/youssef-abdalhady-57111b38b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **YouTube:** [Tech at Moment](https://youtube.com/@tech.at.moment?si=cwTYUnw5WRDh9qDl)
 - **Instagram:** [@youssef.kobaisy](https://www.instagram.com/youssef.kobaisy?srtk=MTZreTg4c2hvcWlheQ==)
