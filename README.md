@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161b22,100:1f6feb&height=220&section=header&text=Youssef%20Abdelhady&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%26%20C%2B%2B%20Desktop%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Youssef-kobaisy/kobaisy/main/images/youssef-portrait.jpg&w=400&h=400&fit=cover&mask=circle&output=png" alt="Youssef Abdelhady" width="170" height="170" />
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com%2FYoussef-kobaisy%2Fkobaisy%2Fmain%2Fimages%2Fyoussef-portrait.jpg&w=400&h=400&fit=cover&mask=circle&output=png" alt="Circular portrait of Youssef Abdelhady" width="170" height="170" />
 
 <br/>
 
@@ -15,6 +15,8 @@
 <a href="https://youssef-kobaisy.work"><img src="https://img.shields.io/badge/Portfolio-youssef--kobaisy.work-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/youssef-abdalhady-57111b38b?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://youtube.com/@tech.at.moment?si=cwTYUnw5WRDh9qDl"><img src="https://img.shields.io/badge/YouTube-Tech_at_Moment-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.instagram.com/youssef.kobaisy?srtk=MTZreTg4c2hvcWlheQ=="><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=61596196576308"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="mailto:youssef.abdalhady.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
